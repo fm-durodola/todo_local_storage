@@ -1,0 +1,9 @@
+.dates_container {
+    padding: 0.5rem 1rem;
+    color: var(--primary);
+
+}
+
+.date_style {
+    font-size: 0.8rem;
+}
